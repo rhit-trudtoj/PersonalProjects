@@ -1,2 +1,4 @@
 venv/
 image-recognition-practice/skin-cancer-identifier/*.keras
+image-recognition-practice/skin-cancer-identifier/my_dir/*
+
